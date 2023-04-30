@@ -1,0 +1,22 @@
+# Logs
+logs
+*.log*
+
+*.local
+.env
+config/ssl
+dev-dist
+dist
+dist-ssr
+node_modules
+
+# Editor directories and files
+*.njsproj
+*.ntvs*
+*.sln
+*.suo
+*.sw?
+.DS_Store
+.idea
+.vscode/*
+!.vscode/extensions.json

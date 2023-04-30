@@ -1,0 +1,84 @@
+{
+  "background_color": "#ffffff",
+  "categories": ["React", "TypeScript"],
+  "description": "React TypeScript.",
+  "display": "standalone",
+  "display_override": [],
+  "file_handlers": [],
+  "iarc_rating_id": "",
+  "icons": [
+    {
+      "src": "assets/images/pwa/manifest-icon-192.maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/images/pwa/manifest-icon-192.maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "assets/images/pwa/manifest-icon-512.maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/images/pwa/manifest-icon-512.maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "rt",
+  "lang": "en-US",
+  "name": "React TypeScript",
+  "prefer_related_applications": false,
+  "publicPath": "",
+  "related_applications": [
+    {
+      "id": "com.example",
+      "platform": "play",
+      "url": "https://play.google.com/store/apps/details?id=com.example"
+    },
+    {
+      "platform": "itunes",
+      "url": "https://apps.apple.com/us/app/example/id0123456789"
+    },
+    {
+      "platform": "webapp",
+      "url": "https://example.com"
+    }
+  ],
+  "scope": ".",
+  "screenshots": [
+    {
+      "label": "",
+      "platform": "wide",
+      "sizes": "512x512",
+      "src": "assets/images/pwa/manifest-icon-512.png",
+      "type": "image/png"
+    }
+  ],
+  "short_name": "RT",
+  "shortcuts": [
+    {
+      "description": "React TypeScript.",
+      "icons": [
+        {
+          "purpose": "maskable any",
+          "sizes": "512x512",
+          "src": "assets/images/pwa/manifest-icon-512.png",
+          "type": "image/png"
+        }
+      ],
+      "name": "React TypeScript",
+      "short_name": "RT",
+      "url": "/"
+    }
+  ],
+  "start_url": ".",
+  "theme_color": "#ffffff"
+}
